@@ -3,63 +3,63 @@
 ### geoX
 
 - **country.mmdb**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/country.mmdb)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)
   
 - **geoip.dat**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geoip.dat)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat)
 
 - **geoip.db**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.db)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geoip.db)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.db)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.db)
 
 - **country-lite.mmdb**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/country-lite.mmdb)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country-lite.mmdb)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country-lite.mmdb)
   
 - **geoip-lite.dat**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geoip-lite.dat)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.dat)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.dat)
 
 - **geoip-lite.db**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.db)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geoip-lite.db)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.db)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.db)
   
 - **geosite.dat**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geosite.dat)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat)
 
 - **geosite.db**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.db)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geosite.db)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.db)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.db)
 
 - **geosite-lite.dat**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite-lite.dat)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geosite-lite.dat)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.dat)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.dat)
 
 - **geosite-lite.db**
-  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite-lite.db)
+  - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/geosite-lite.db)
   - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.db)
   - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.db)
 
 ### **rule-set**
   - **cn_domain.yaml**
-    - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/cn_domain.yaml)
+    - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/cn_domain.yaml)
     - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/cn_domain.yaml)
     - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/cn_domain.yaml)
     
   - **proxy.yaml**
-    - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/proxy.yaml)
+    - [Github release](https://github.com/MetaCubeX/meta-rules-dat/releases/download/Latest/proxy.yaml)
     - [JSdelivr](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/proxy.yaml)
     - [JSdelivr-CF](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/proxy.yaml)
     
