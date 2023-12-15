@@ -34,7 +34,7 @@ for ((i = 0; i < ${#list[@]}; i++)); do
 	mkdir -p ${list[i]}
 	# 归类
 	# android package
-	if [ -n "$(cat ./rule/Clash/${list[i]}/${list[i]}.yaml | grep -v '#' | grep PROCESS | grep -v '\.exe' | grep '\.')" ]; then
+	if [ -n "$(cat ./rule/Clash/${list[i]}/${list[i]}.yaml | grep -v '#' | grep PROCESS | grep -v '\.exe' | grep -v '/' | grep '\.')" ]; then
 		cat ./rule/Clash/${list[i]}/${list[i]}.yaml | grep -v '#' |  grep PROCESS | grep -v '\.exe' | grep '\.' | sed 's/  - PROCESS-NAME,//g' > ${list[i]}/package.json
 	fi
 	# process name
