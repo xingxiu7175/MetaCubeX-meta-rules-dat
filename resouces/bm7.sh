@@ -117,7 +117,10 @@ for ((i = 0; i < ${#list[@]}; i++)); do
 	elif [ -f "${list[i]}/process.json" ]; then
 		mv ${list[i]}/process.json ${list[i]}.json
 	fi
-	if [ -f "${list[i]}.json" ]; then
+
+	if [ "$(ls ${list[i]})" = "" ]; then
+		sed -i '1s/^/{\n  "version": 1,\n  "rules": [\n    {\n/g' ${list[i]}.json
+	elif [ -f "${list[i]}.json" ]; then
 		sed -i '1s/^/{\n  "version": 1,\n  "rules": [\n    {\n/g' ${list[i]}.json
 		sed -i '$ s/,$/\n    },\n    {/g' ${list[i]}.json
 		cat ${list[i]}/* >> ${list[i]}.json
