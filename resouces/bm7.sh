@@ -10,6 +10,12 @@ if [ ! -d rule ]; then
 	rm -rf .git
 fi
 # 移动文件/目录到同一文件夹
+list=($(find ./rule/Clash/ | awk -F '/' '{print $5}' | sed '/^$/d' | grep -v '\.' | sort -u))
+for ((i = 0; i < ${#list[@]}; i++)); do
+	path=$(find ./rule/Clash/ -name ${list[i]})
+	mv $path ./rule/Clash/
+done
+
 list=($(ls ./rule/Clash/))
 for ((i = 0; i < ${#list[@]}; i++)); do
 	if [ -z "$(ls ./rule/Clash/${list[i]} | grep '.yaml')" ]; then
