@@ -52,6 +52,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
+          go-version: '1.22'
           go-version-file: ./custom/go.mod
           cache-dependency-path: ./custom/go.sum
 
