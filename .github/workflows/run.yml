@@ -293,6 +293,8 @@ jobs:
           install -Dp ./geoip.metadb ./publish/
           install -Dp ./geoip-lite.metadb ./publish/
           cd ./publish || exit 1
+          sha256sum country.mmdb > country.mmdb.sha256sum
+          sha256sum country-lite.mmdb > country-lite.mmdb.sha256sum
           sha256sum geoip-lite.dat > geoip-lite.dat.sha256sum
           sha256sum geoip.dat > geoip.dat.sha256sum
           sha256sum geosite.dat > geosite.dat.sha256sum
