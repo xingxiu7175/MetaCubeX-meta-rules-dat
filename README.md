@@ -76,7 +76,7 @@ rule-providers:
     interval: 86400
     path: ./provider/rule-set/cn_domain.yaml
     type: http
-    url: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/cn_domain.yaml"
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml"
 
 rules:
   - RULE-SET,cn,DIRECT
